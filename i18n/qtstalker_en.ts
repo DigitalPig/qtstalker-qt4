@@ -694,12 +694,12 @@ Save changes?</source>
 <context>
     <name>ExScript</name>
     <message>
-        <location filename="../lib/ExScript.cpp" line="548"/>
+        <location filename="../lib/ExScript.cpp" line="549"/>
         <source>ExScript Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="549"/>
+        <location filename="../lib/ExScript.cpp" line="550"/>
         <source>Script timeout. Cancel process?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2267,40 +2267,40 @@ Save changes?</source>
     <message>
         <location filename="../lib/BarData.cpp" line="42"/>
         <location filename="../lib/BarData.cpp" line="310"/>
-        <location filename="../lib/ExScript.cpp" line="254"/>
-        <location filename="../lib/ExScript.cpp" line="460"/>
+        <location filename="../lib/ExScript.cpp" line="255"/>
+        <location filename="../lib/ExScript.cpp" line="461"/>
         <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lib/BarData.cpp" line="43"/>
         <location filename="../lib/BarData.cpp" line="316"/>
-        <location filename="../lib/ExScript.cpp" line="255"/>
-        <location filename="../lib/ExScript.cpp" line="461"/>
+        <location filename="../lib/ExScript.cpp" line="256"/>
+        <location filename="../lib/ExScript.cpp" line="462"/>
         <source>High</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lib/BarData.cpp" line="44"/>
         <location filename="../lib/BarData.cpp" line="322"/>
-        <location filename="../lib/ExScript.cpp" line="256"/>
-        <location filename="../lib/ExScript.cpp" line="462"/>
+        <location filename="../lib/ExScript.cpp" line="257"/>
+        <location filename="../lib/ExScript.cpp" line="463"/>
         <source>Low</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lib/BarData.cpp" line="45"/>
         <location filename="../lib/BarData.cpp" line="328"/>
-        <location filename="../lib/ExScript.cpp" line="257"/>
-        <location filename="../lib/ExScript.cpp" line="463"/>
+        <location filename="../lib/ExScript.cpp" line="258"/>
+        <location filename="../lib/ExScript.cpp" line="464"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lib/BarData.cpp" line="46"/>
         <location filename="../lib/BarData.cpp" line="334"/>
-        <location filename="../lib/ExScript.cpp" line="258"/>
-        <location filename="../lib/ExScript.cpp" line="464"/>
+        <location filename="../lib/ExScript.cpp" line="259"/>
+        <location filename="../lib/ExScript.cpp" line="465"/>
         <source>Volume</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2499,12 +2499,12 @@ Save changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="246"/>
+        <location filename="../lib/ExScript.cpp" line="247"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="249"/>
+        <location filename="../lib/ExScript.cpp" line="250"/>
         <location filename="../lib/FI.cpp" line="106"/>
         <location filename="../lib/LOWPASS.cpp" line="229"/>
         <location filename="../lib/SZ.cpp" line="215"/>
@@ -2517,13 +2517,13 @@ Save changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="251"/>
-        <location filename="../lib/ExScript.cpp" line="458"/>
+        <location filename="../lib/ExScript.cpp" line="252"/>
+        <location filename="../lib/ExScript.cpp" line="459"/>
         <source>Switches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="252"/>
+        <location filename="../lib/ExScript.cpp" line="253"/>
         <location filename="../lib/LOWPASS.cpp" line="232"/>
         <location filename="../lib/LOWPASS.cpp" line="358"/>
         <location filename="../lib/TALIB.cpp" line="1016"/>
@@ -2534,23 +2534,23 @@ Save changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="259"/>
-        <location filename="../lib/ExScript.cpp" line="465"/>
+        <location filename="../lib/ExScript.cpp" line="260"/>
+        <location filename="../lib/ExScript.cpp" line="466"/>
         <source>Open Interest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="260"/>
+        <location filename="../lib/ExScript.cpp" line="261"/>
         <source>Timeout Seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="263"/>
+        <location filename="../lib/ExScript.cpp" line="264"/>
         <source>ExScript Indicator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="468"/>
+        <location filename="../lib/ExScript.cpp" line="469"/>
         <source>ExScript Format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2567,7 +2567,7 @@ Save changes?</source>
     </message>
     <message>
         <location filename="../lib/BARS.cpp" line="1050"/>
-        <location filename="../lib/ExScript.cpp" line="247"/>
+        <location filename="../lib/ExScript.cpp" line="248"/>
         <location filename="../lib/FI.cpp" line="104"/>
         <location filename="../lib/LOWPASS.cpp" line="227"/>
         <location filename="../lib/SZ.cpp" line="213"/>
@@ -2611,7 +2611,7 @@ Save changes?</source>
         <location filename="../lib/DbPlugin.cpp" line="623"/>
         <location filename="../lib/DbPlugin.cpp" line="779"/>
         <location filename="../lib/DbPlugin.cpp" line="819"/>
-        <location filename="../lib/ExScript.cpp" line="455"/>
+        <location filename="../lib/ExScript.cpp" line="456"/>
         <location filename="../lib/FI.cpp" line="103"/>
         <location filename="../lib/FI.cpp" line="206"/>
         <location filename="../lib/LMS.cpp" line="364"/>
@@ -2656,7 +2656,7 @@ Save changes?</source>
     </message>
     <message>
         <location filename="../lib/BARS.cpp" line="500"/>
-        <location filename="../lib/ExScript.cpp" line="248"/>
+        <location filename="../lib/ExScript.cpp" line="249"/>
         <location filename="../lib/FI.cpp" line="105"/>
         <location filename="../lib/LMS.cpp" line="368"/>
         <location filename="../lib/LOWPASS.cpp" line="228"/>
@@ -2891,7 +2891,7 @@ Save changes?</source>
     </message>
     <message>
         <location filename="../lib/BARS.cpp" line="1049"/>
-        <location filename="../lib/ExScript.cpp" line="456"/>
+        <location filename="../lib/ExScript.cpp" line="457"/>
         <location filename="../lib/FI.cpp" line="207"/>
         <location filename="../lib/LMS.cpp" line="593"/>
         <location filename="../lib/LOWPASS.cpp" line="355"/>
@@ -3102,15 +3102,15 @@ Save changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../lib/ExScript.cpp" line="250"/>
-        <location filename="../lib/ExScript.cpp" line="457"/>
+        <location filename="../lib/ExScript.cpp" line="251"/>
+        <location filename="../lib/ExScript.cpp" line="458"/>
         <source>Script Path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lib/BarEdit.cpp" line="192"/>
-        <location filename="../lib/ExScript.cpp" line="253"/>
-        <location filename="../lib/ExScript.cpp" line="459"/>
+        <location filename="../lib/ExScript.cpp" line="254"/>
+        <location filename="../lib/ExScript.cpp" line="460"/>
         <source>Date</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5382,68 +5382,68 @@ eg. 2:1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="136"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="137"/>
         <source>Adjustment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="139"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="140"/>
         <source>All Symbols</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="195"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="196"/>
         <source>No symbols selected. Done</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="260"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="261"/>
         <source>Timeout: retry limit skipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="260"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="375"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="533"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="261"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="376"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="534"/>
         <source>skipped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="279"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="280"/>
         <source>Timeout: retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="328"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="486"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="777"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="329"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="487"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="778"/>
         <source>Could not open db</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="375"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="533"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="376"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="534"/>
         <source>Parse: invalid number of parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="385"/>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="555"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="386"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="556"/>
         <source>Bad date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="693"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="694"/>
         <source>Unable to download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="1087"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="1088"/>
         <source>New Yahoo Symbols</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="1088"/>
+        <location filename="../plugins/quote/Yahoo/Yahoo.cpp" line="1089"/>
         <source>Enter symbols to add. Note: separate symbols with a space</source>
         <translation type="unfinished"></translation>
     </message>

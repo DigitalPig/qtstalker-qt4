@@ -27,7 +27,7 @@ void Dependencies::berkeleyDbVersion()
   QString msg;
 
   printf("Using Berkeley DB version: %s\n", DB_VERSION_STRING);
-  if (DB_VERSION_MAJOR != requiredMajor || DB_VERSION_MINOR < requiredMinor)
+  if (DB_VERSION_MAJOR >= requiredMajor && DB_VERSION_MINOR < requiredMinor)
   {
     msg = QString("Require at least version %1.%2").arg(requiredMajor).arg(requiredMinor);
     QFAIL(QTest::toString(msg));
